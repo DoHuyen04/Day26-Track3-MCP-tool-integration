@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["implementation/mcp_server.py"],
+      "env": {}
+    }
+  }
+}
